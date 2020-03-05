@@ -351,16 +351,8 @@
             "version": "^0.1.8"
           },
           {
-            "name": "command-exists",
-            "version": "^1.2.8"
-          },
-          {
             "name": "cryptiles",
-            "version": ">=4.1.2"
-          },
-          {
-            "name": "deep-extend",
-            "version": "^0.6.0"
+            "version": ">=4.1.3"
           },
           {
             "name": "font-awesome",
@@ -380,47 +372,19 @@
           },
           {
             "name": "handlebars",
-            "version": "^4.7.3"
-          },
-          {
-            "name": "js-yaml",
-            "version": "^3.13.1"
-          },
-          {
-            "name": "lodash",
-            "version": "^4.17.15"
+            "version": ">=4.3.0"
           },
           {
             "name": "lodash-es",
-            "version": "^4.17.15"
-          },
-          {
-            "name": "lodash.merge",
-            "version": "^4.6.2"
+            "version": ">=4.17.14"
           },
           {
             "name": "lodash.template",
-            "version": "^4.5.0"
-          },
-          {
-            "name": "macaddress",
-            "version": "^0.2.9"
-          },
-          {
-            "name": "merge",
-            "version": "^1.2.1"
-          },
-          {
-            "name": "mixin-deep",
-            "version": "^2.0.1"
+            "version": ">=4.5.0"
           },
           {
             "name": "open",
-            "version": "^7.0.2"
-          },
-          {
-            "name": "querystringify",
-            "version": "^2.1.1"
+            "version": ">=6.0.0"
           },
           {
             "name": "react-helmet",
@@ -428,23 +392,15 @@
           },
           {
             "name": "serve",
-            "version": "^11.3.0"
-          },
-          {
-            "name": "set-value",
-            "version": "^3.0.1"
+            "version": ">=7.1.3"
           },
           {
             "name": "tar-fs",
-            "version": "^2.0.0"
-          },
-          {
-            "name": "url-parse",
-            "version": "^1.4.7"
+            "version": ">=1.16.2"
           },
           {
             "name": "ws",
-            "version": "^7.2.1"
+            "version": ">=3.1.1"
           }
         ],
         "devDependencies": [
@@ -475,12 +431,12 @@
       },
       "pathPrefix": "",
       "polyfill": true,
-      "buildTime": "2020-03-05T12:33:50.461Z",
+      "buildTime": "2020-03-05T12:57:31.435Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "9fc09b627c1f349f5e1248db54107ba6",
+        "contentDigest": "3666b60d80620e5796ac311d1fbb2fe7",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -501,7 +457,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "0c3b3acad9bf6b3adab883430328e0e9",
+        "contentDigest": "bdd96f51e0284df56aa913eaf958cd25",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -522,7 +478,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "ffe9e1c4a2fc24c7faa2d4f00fad5056",
+        "contentDigest": "5f6ef156bfb3108baec30356c29b059b",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -543,7 +499,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "3f919fada67a3969796d7c1e901a17e3",
+        "contentDigest": "e190bb119ee050b91052ce91c5f5c2a1",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -564,7 +520,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "b847bd44c07dcf87452280d7d657c28b",
+        "contentDigest": "7ece15a413b5e6fba4f2a4d2c49675e4",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -572,7 +528,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "aaacc57b62c4adfad0157237d386e0b2"
+    "PLUGINS_HASH": "ab413fd2d2a6581e77278c0c1a3712f9"
   },
   "componentDataDependencies": {
     "nodes": {
