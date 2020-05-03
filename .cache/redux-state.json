@@ -312,11 +312,13 @@
       "resolve": "/Users/domogami/Documents/GitHub/domogami.github.io",
       "id": "Plugin default-site-plugin",
       "name": "default-site-plugin",
-      "version": "6ba8c96901651ecea266cbbd89267508",
+      "version": "dfea631e859ea4a48355d8b54b335f77",
       "pluginOptions": {
         "plugins": []
       },
-      "nodeAPIs": [],
+      "nodeAPIs": [
+        "onPreBuild"
+      ],
       "browserAPIs": [],
       "ssrAPIs": [],
       "pluginFilepath": "/Users/domogami/Documents/GitHub/domogami.github.io",
@@ -420,7 +422,7 @@
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "175e938e668205758f8c2c2cc62abf46",
+        "contentDigest": "c4955a498745233c41c6e8b4680a0f73",
         "type": "SitePlugin",
         "owner": "internal-data-bridge"
       }
@@ -429,14 +431,14 @@
       "siteMetadata": {
         "title": "I'm Dominick Lee"
       },
-      "pathPrefix": "",
+      "pathPrefix": "/domogami.github.io",
       "polyfill": true,
-      "buildTime": "2020-03-05T12:57:31.435Z",
+      "buildTime": "2020-05-03T06:59:37.476Z",
       "id": "Site",
       "parent": "SOURCE",
       "children": [],
       "internal": {
-        "contentDigest": "3666b60d80620e5796ac311d1fbb2fe7",
+        "contentDigest": "181559a05f0fa7cf42d42f003df54ee5",
         "type": "Site",
         "owner": "internal-data-bridge"
       }
@@ -457,7 +459,28 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "bdd96f51e0284df56aa913eaf958cd25",
+        "contentDigest": "5e881abf1efac556fa623aed6a6702a4",
+        "description": "Plugin component-page-creator",
+        "owner": "internal-data-bridge"
+      }
+    },
+    "SitePage /Blog/": {
+      "layout": "index",
+      "jsonName": "blog.json",
+      "internalComponentName": "ComponentBlog",
+      "path": "/Blog/",
+      "component": "/Users/domogami/Documents/GitHub/domogami.github.io/src/pages/Blog.js",
+      "componentChunkName": "component---src-pages-blog-js",
+      "context": {},
+      "pluginCreator___NODE": "Plugin component-page-creator",
+      "pluginCreatorId": "Plugin component-page-creator",
+      "componentPath": "/Users/domogami/Documents/GitHub/domogami.github.io/src/pages/Blog.js",
+      "id": "SitePage /Blog/",
+      "parent": "SOURCE",
+      "children": [],
+      "internal": {
+        "type": "SitePage",
+        "contentDigest": "36f0f366370d462f1ca94d734e56203f",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -478,7 +501,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "5f6ef156bfb3108baec30356c29b059b",
+        "contentDigest": "04a5c5861c9285991ef283a8c7c8261f",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -499,7 +522,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "e190bb119ee050b91052ce91c5f5c2a1",
+        "contentDigest": "3726f8b4591b99d7c70f763a6dea113e",
         "description": "Plugin component-page-creator",
         "owner": "internal-data-bridge"
       }
@@ -520,7 +543,7 @@
       "children": [],
       "internal": {
         "type": "SitePage",
-        "contentDigest": "7ece15a413b5e6fba4f2a4d2c49675e4",
+        "contentDigest": "c18c9ac354223b69c1be62da5cf1d13d",
         "description": "Plugin prod-404",
         "owner": "internal-data-bridge"
       }
@@ -528,7 +551,7 @@
   },
   "status": {
     "plugins": {},
-    "PLUGINS_HASH": "ab413fd2d2a6581e77278c0c1a3712f9"
+    "PLUGINS_HASH": "b961671e83084c829f18aea2956c38ed"
   },
   "componentDataDependencies": {
     "nodes": {
